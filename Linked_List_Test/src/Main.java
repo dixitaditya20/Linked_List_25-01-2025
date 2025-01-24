@@ -59,5 +59,6 @@ public class Main {
         list.removeLast();
         System.out.println("Remove Last Linked List after removing : " + list);
         //Remove first last element from Linked List End
+
     }
 }
